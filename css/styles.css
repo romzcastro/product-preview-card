@@ -27,7 +27,7 @@ body p {
 }
 .topcontainer {
   padding: 120px;
-  background-image: url(./images/image-product-mobile.jpg);
+  background-image: url(../images/image-product-mobile.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border-top-right-radius: 10px;
@@ -76,7 +76,7 @@ body p {
 }
 .addtocart {
   background-color: hsl(158, 36%, 37%);
-  background-image: url(./images/icon-cart.svg);
+  background-image: url(../images/icon-cart.svg);
   background-repeat: no-repeat;
   background-position: center left;
   background-position-x: 60px;
@@ -114,7 +114,7 @@ body p {
   }
   .topcontainer {
     padding: 160px;
-    background-image: url(./images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
     background-size: 100% 100%;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
@@ -168,7 +168,7 @@ body p {
   }
   .addtocart {
     background-color: hsl(158, 36%, 37%);
-    background-image: url(./images/icon-cart.svg);
+    background-image: url(../images/icon-cart.svg);
     background-repeat: no-repeat;
     background-position: center left;
     background-position-x: 80px;
